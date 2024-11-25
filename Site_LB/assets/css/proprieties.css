@@ -1,0 +1,13 @@
+:root{
+    --font-primary: "Baloo Da 2", serif;
+    --font-secondary: "Josefin Slab", serif;
+    --font-tertiary: 'JetBrains Mono', monospace;
+    --font-radiant: 'Radiant Beauty', sans-serif;
+    --font-action: "Mulish", serif;
+    --font-pacifico: 'Pacifico', cursive;
+    --font-montserrat: 'Montserrat', sans-serif;
+    --font-dancing: 'Dancing Script', cursive; /* Adicione esta linha */
+}
+
+
+
